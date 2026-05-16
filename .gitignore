@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.spec
+*.db
+backup/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.vscode/

@@ -1,0 +1,12 @@
+PyQt6
+PyQt6-Charts
+pyqtgraph
+bcrypt
+pandas
+openpyxl
+fpdf2
+python-barcode
+qrcode
+matplotlib
+scikit-learn
+pyinstaller
